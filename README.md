@@ -7,24 +7,24 @@
 ## Results
     - At the beginning we will find all the information available in the table, without filters. (image A-1)
 
-![]()
+![](https://github.com/maadpeal/UFOs/blob/main/images/A-1.png)
 image A-1
 
     - To the left of the table we can see that there is a title that says "Filter Search" below are
     all filters available (image B-1).
 
-![]()
+![](https://github.com/maadpeal/UFOs/blob/main/images/B-1.png)
 image B-1
 
     - In "Enter date" we can enter the date we want to search for specifically and it will return us
     the corresponding information (image C-1).
 
-![]()
+![](https://github.com/maadpeal/UFOs/blob/main/images/C-1.png)
 image C-1
 
     - We can search by city, state, country and shape at the same time (image D-1).
 
-![]()
+![](https://github.com/maadpeal/UFOs/blob/main/images/D-1.png)
 image D-1
 
 ## Summary
